@@ -1,0 +1,6 @@
+CustomerID,CustomerName,Product,Quantity,SaleAmount
+1,John Doe,Laptop,1,1500.50
+2,Jane Smith,Mobile,2,2200.00
+3,Bob Johnson,Tablet,3,1800.75
+4,Alice Brown,Headphones,5,750.00
+5,Charlie White,Smartwatch,1,300.00
